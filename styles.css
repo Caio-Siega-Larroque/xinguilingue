@@ -9,7 +9,7 @@ html, body {
 
 /* Fundo com imagem cobrindo a tela */
 body {
-  background: url('https://i.pinimg.com/736x/d3/f2/bd/d3f2bd03c7412e15812c83dd6de262a2.jpg') no-repeat center center fixed;
+  background: url('https://img.freepik.com/vetores-gratis/vetor-de-design-de-fundo-de-padrao-de-impressao-de-pata-de-mamifero-adoravel_1017-47510.jpg') no-repeat center center fixed;
   /* Define uma imagem de fundo:
   - 'url()' → Caminho da imagem de fundo.
   - 'no-repeat' → Evita a repetição da imagem.
@@ -71,23 +71,23 @@ body {
 
 /* Cores equilibradas para cada botão do menu */
 .menu ul li:nth-child(1) a {
-  background-color: #1cc933;
+  background-color: #797847a6;
 }
 
 .menu ul li:nth-child(2) a {
-  background-color: #1cc933;
+  background-color: #797847a6;
 }
 
 .menu ul li:nth-child(3) a {
-  background-color: #1cc933;
+  background-color: #797847a6;
 }
 
 .menu ul li:nth-child(4) a {
-  background-color: #1cc933;
+  background-color: #797847a6;
 }
 
 .menu ul li:nth-child(5) a {
-  background-color: #1cc933;
+  background-color: #797847a6;
 }
 
 .menu ul li a:hover {
@@ -114,7 +114,7 @@ body {
 
 /* Títulos das seções com destaque em amarelo escuro */
 .box h2 {
-  color: #ddc121;
+  color: #000000;
   margin-top: 0;
 }
 .imagem-cachorro {
